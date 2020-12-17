@@ -1,0 +1,10 @@
+.singlepost {
+  margin-left: 100px;
+  margin-top: 100px;
+  
+}
+
+.singlepost__card {
+  min-width: 800px;
+}
+

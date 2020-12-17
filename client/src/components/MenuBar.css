@@ -1,0 +1,31 @@
+.menubar__item {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-weight: 800;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.menubar__item:hover {
+  background-color: #e8f5fe;
+  border-radius: 30px;
+  color: navy;
+  transition: color 100ms ease-out;
+}
+
+.menubar__item > .MuiSvgIcon-root {
+  padding: 20px;
+}
+
+.menubar__option--active {
+  color: navy;
+}
+
+.ui.secondary.vertical.pointing.menu {
+  border-right-width: 0px;
+}
+
+.ui.secondary.vertical.pointing.menu.item {
+  border-right-style: hidden;
+}
