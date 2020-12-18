@@ -1,0 +1,2 @@
+#Server
+npm start
