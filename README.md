@@ -1,3 +1,0 @@
-# mern-graphql
-
-npm start
